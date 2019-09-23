@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/plantation-4452538_1920.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
@@ -115,7 +115,7 @@ body {
     width: 100%;
 }
 
-#content {
+.content {
     display:flex;
     justify-content: center;
     align-items: center;
@@ -136,6 +136,9 @@ body {
     font-family: 'Lora', sans-serif;
 }
 
+#content2 {
+    margin-top: 100px;
+}
 
 
 
